@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@400;700&display=swap");
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Montserrat", sans-serif;
+  color: #25a2c3;
+  font-weight: 700;
+  line-height: 1.5;
+}
+body {
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  color: #393d41;
+  font-size: 1.2rem;
+  line-height: 1.65;
+}
+
+#first-section {
+  background-image: url("FE-S1-P-Esercizio/images/banner.jpg");
+  background-size: cover;
+  padding-bottom: 40px;
+}
+#third-section {
+  background-color: #e22d0e;
+}
+footer {
+  background-color: #25a2c3;
+  color: #c8e7f0;
+}
+h1 {
+  font-size: 2em;
+  line-height: initial;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+h2 {
+  color: white;
+  font-size: 1.5em;
+}
+a {
+  color: #c8e7f0;
+}
+header {
+  background-color: black;
+  padding: 30px;
+}
+button {
+  background-color: #f04c2f;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  padding: 15px 30px;
+  font-weight: 700;
+  border: none;
+  border-radius: 5px;
+  margin-top: 30px;
+}
+address {
+  display: inline;
+}
+footer h2 {
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+img {
+  width: 90%;
+  margin: 20px;
+}
+#last-address {
+  display: inline-block;
+  border-bottom: 1px solid;
+  margin-bottom: 15px;
+  padding-bottom: 30px;
+}
+footer p {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  font-size: 0.8em;
+}
+header img {
+  width: 150px;
+}
+#second-section {
+  padding: 50px;
+}
+h3 {
+  padding: 20px;
+}
+#first-p {
+  margin-bottom: 10px;
+}
+.first-img {
+  border-radius: 100%;
+}
+section p {
+  margin: 20px;
+}
+#third-section {
+  padding-top: 50px;
+  padding-bottom: 30px;
+  color: white;
+}
+section h2 {
+  padding-bottom: 20px;
+}
+blockquote {
+  font-style: italic;
+}
+div {
+  border: 1px solid #dee1e3;
+}
